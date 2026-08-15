@@ -26,6 +26,13 @@ Incident Response • Network Security • DNS Security • Monitoring • Root 
 
 ## Featured Engineering Work
 
+### 🤖 AI-Enhanced Enterprise Network Operations & Security
+[View Repository →](https://github.com/montezguido/ai-enhanced-network-operations-security)
+
+Architecture case study demonstrating AI-assisted enterprise network design, GNS3 refinement, multi-site integration, VLAN segmentation, AWS-based monitoring and threat detection, automated incident-response design, KPI analysis, capacity planning, resource optimization, and cost-benefit evaluation.
+
+**Technologies & Concepts:** GNS3 • AWS GuardDuty • AWS Security Hub • Amazon CloudWatch • AWS Lambda • VLANs • AI-Assisted Operations • Incident Response • KPI Analysis
+
 ### 🏥 Healthcare Hybrid Cloud Modernization & Operations
 [View Repository →](https://github.com/montezguido/healthcare-hybrid-cloud-modernization)
 
@@ -53,7 +60,6 @@ Terraform-based AWS infrastructure project using reusable variables to define VP
 
 My additional engineering work includes projects in:
 
-- AI-assisted enterprise network design and monitoring
 - GNS3 network architecture and troubleshooting
 - Network security, monitoring, and incident-response design
 - Systems analysis and root-cause investigation
