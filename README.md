@@ -14,13 +14,13 @@ My portfolio focuses on practical engineering work: designing infrastructure, au
 AWS • Hybrid Cloud • Terraform • Infrastructure as Code • Cloud Networking
 
 **Networking**  
-TCP/IP • DNS • VLANs • Routing • Switching • WLAN • Network Troubleshooting • GNS3 • Software-Defined Networking • Network Functions Virtualization • OpenFlow Concepts • Northbound/Southbound APIs • Network Telemetry
+TCP/IP • DNS • VLANs • Routing • Switching • WLAN • Network Troubleshooting • Wireshark • Packet Analysis • OPNsense • GNS3 • Software-Defined Networking • Network Functions Virtualization • OpenFlow Concepts • Northbound/Southbound APIs • Network Telemetry
 
 **Automation & Development**  
 Python • REST APIs • Git • GitHub • GitLab • Infrastructure Automation • Network Programmability • Ansible Concepts
 
 **Security & Operations**  
-Incident Response • Network Security • DNS Security • Monitoring • Root Cause Analysis • Centralized Logging • Software-Defined Security • Technical Documentation
+Incident Response • Network Security • DNS Security • Monitoring • Root Cause Analysis • Firewall Policy Analysis • Service Exposure Analysis • Centralized Logging • Software-Defined Security • Technical Documentation
 
 ---
 
@@ -39,6 +39,13 @@ Architecture case study demonstrating AI-assisted enterprise network design, GNS
 Architecture case study for modernizing a fragmented healthcare analytics environment into a secure, scalable hybrid-cloud platform. The design covers workload placement, private hybrid connectivity, network segmentation, centralized identity, Kubernetes strategy, Infrastructure as Code, SIEM/SOAR, workflow automation, governance, FinOps, and continuous optimization.
 
 **Technologies & Concepts:** Hybrid Cloud • Azure Arc • Kubernetes • Infrastructure as Code • SIEM/SOAR • Zero Trust • Automation • FinOps
+
+### 🔎 Enterprise Network Troubleshooting & Diagnostics
+[View Repository →](https://github.com/montezguido/enterprise-network-troubleshooting)
+
+Hands-on troubleshooting case study covering packet analysis, DNS redirection, routing failures, endpoint IP configuration, DMZ/firewall policy, TCP/UDP service exposure, root-cause isolation, remediation, and verification across Windows, Linux, and network-security environments.
+
+**Technologies & Tools:** Wireshark • PCAP • DNS • nslookup • ping • traceroute • ipconfig • Linux ss • OPNsense • Root Cause Analysis
 
 ### 🛡️ Python Network Automation & Incident Response
 [View Repository →](https://github.com/montezguido/network-automation-incident-response)
@@ -61,7 +68,6 @@ Terraform-based AWS infrastructure project using reusable variables to define VP
 My additional engineering work includes projects in:
 
 - Original software-defined networking lab focused on centralized control, OpenFlow/Open vSwitch, network automation, segmentation, and telemetry
-- GNS3 network architecture and troubleshooting
 - Network security, monitoring, and incident-response design
 - Systems analysis and root-cause investigation
 
