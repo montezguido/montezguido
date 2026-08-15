@@ -26,6 +26,13 @@ Incident Response • Network Security • DNS Security • Monitoring • Root 
 
 ## Featured Engineering Work
 
+### 🛡️ Python Network Automation & Incident Response
+[View Repository →](https://github.com/montezguido/network-automation-incident-response)
+
+Case study demonstrating an end-to-end network operations workflow: device inventory, availability monitoring, unauthorized DNS detection, SMTP incident alerts, REST API help-desk ticketing, DNS service recovery, endpoint remediation, configuration backup, ticket resolution, and operational health logging.
+
+**Technologies:** Python • DNS/BIND • REST APIs • SMTP • Linux • Git/GitLab • Incident Response
+
 ### 🌎 Multi-Region AWS Infrastructure with Terraform
 [View Repository →](https://github.com/montezguido/aws-armageddon)
 
@@ -39,16 +46,13 @@ Terraform-based AWS infrastructure project using reusable variables to define VP
 
 My additional engineering work includes projects in:
 
-- Automated DNS incident response and remediation using Python
-- REST API integration for automated help-desk ticket creation
-- SMTP-based stakeholder incident notification
 - Hybrid-cloud infrastructure architecture
 - AI-assisted enterprise network design and monitoring
 - GNS3 network architecture and troubleshooting
 - Network security, monitoring, and incident-response design
 - Systems analysis and root-cause investigation
 
-These projects are being converted from lab and academic environments into sanitized, employer-facing technical case studies with original documentation, architecture diagrams, source code, and implementation notes.
+These projects are being converted from lab and academic environments into sanitized, employer-facing technical case studies with original documentation, architecture diagrams, source code where publication is permitted, and implementation notes.
 
 ---
 
