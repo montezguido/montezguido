@@ -24,6 +24,20 @@ Zero Trust • Hybrid/Multicloud Security • Identity Federation • Least Priv
 
 ---
 
+## Certifications
+
+- **AWS Certified Solutions Architect – Associate** — 2026
+- **AWS Certified CloudOps Engineer** — 2026
+- **CompTIA Security+** — 2025
+- **CompTIA Network+** — 2025
+- **AWS Certified Cloud Practitioner** — 2025
+- **Linux Foundations** — 2025
+- **CompTIA Project+** — 2025
+- **CompTIA A+** — 2024
+- **ITIL Foundation** — 2024
+
+---
+
 ## Featured Engineering Work
 
 ### 🔐 Hybrid & Multicloud Security Architecture
