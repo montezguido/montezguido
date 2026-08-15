@@ -14,13 +14,13 @@ My portfolio focuses on practical engineering work: designing infrastructure, au
 AWS • Hybrid Cloud • Terraform • Infrastructure as Code • Cloud Networking
 
 **Networking**  
-TCP/IP • DNS • VLANs • Routing • Switching • WLAN • Network Troubleshooting • GNS3
+TCP/IP • DNS • VLANs • Routing • Switching • WLAN • Network Troubleshooting • GNS3 • Software-Defined Networking • Network Functions Virtualization • OpenFlow Concepts • Northbound/Southbound APIs • Network Telemetry
 
 **Automation & Development**  
-Python • REST APIs • Git • GitHub • GitLab • Infrastructure Automation
+Python • REST APIs • Git • GitHub • GitLab • Infrastructure Automation • Network Programmability • Ansible Concepts
 
 **Security & Operations**  
-Incident Response • Network Security • DNS Security • Monitoring • Root Cause Analysis • Technical Documentation
+Incident Response • Network Security • DNS Security • Monitoring • Root Cause Analysis • Centralized Logging • Software-Defined Security • Technical Documentation
 
 ---
 
@@ -60,6 +60,7 @@ Terraform-based AWS infrastructure project using reusable variables to define VP
 
 My additional engineering work includes projects in:
 
+- Original software-defined networking lab focused on centralized control, OpenFlow/Open vSwitch, network automation, segmentation, and telemetry
 - GNS3 network architecture and troubleshooting
 - Network security, monitoring, and incident-response design
 - Systems analysis and root-cause investigation
@@ -83,4 +84,4 @@ Western Governors University — In Progress
 
 ## Current Focus
 
-Cloud engineering • Network automation • Infrastructure as Code • Hybrid cloud • Cybersecurity • Enterprise networking
+Cloud engineering • Network automation • Infrastructure as Code • Hybrid cloud • Software-defined networking • Cybersecurity • Enterprise networking
