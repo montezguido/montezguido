@@ -26,6 +26,13 @@ Incident Response • Network Security • DNS Security • Monitoring • Root 
 
 ## Featured Engineering Work
 
+### 🏥 Healthcare Hybrid Cloud Modernization & Operations
+[View Repository →](https://github.com/montezguido/healthcare-hybrid-cloud-modernization)
+
+Architecture case study for modernizing a fragmented healthcare analytics environment into a secure, scalable hybrid-cloud platform. The design covers workload placement, private hybrid connectivity, network segmentation, centralized identity, Kubernetes strategy, Infrastructure as Code, SIEM/SOAR, workflow automation, governance, FinOps, and continuous optimization.
+
+**Technologies & Concepts:** Hybrid Cloud • Azure Arc • Kubernetes • Infrastructure as Code • SIEM/SOAR • Zero Trust • Automation • FinOps
+
 ### 🛡️ Python Network Automation & Incident Response
 [View Repository →](https://github.com/montezguido/network-automation-incident-response)
 
@@ -46,7 +53,6 @@ Terraform-based AWS infrastructure project using reusable variables to define VP
 
 My additional engineering work includes projects in:
 
-- Hybrid-cloud infrastructure architecture
 - AI-assisted enterprise network design and monitoring
 - GNS3 network architecture and troubleshooting
 - Network security, monitoring, and incident-response design
