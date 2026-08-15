@@ -11,7 +11,7 @@ My portfolio focuses on practical engineering work: designing infrastructure, au
 ## Core Engineering Areas
 
 **Cloud & Infrastructure**  
-AWS • Hybrid Cloud • Terraform • Infrastructure as Code • Cloud Networking
+AWS • EC2 • CloudWatch • Hybrid Cloud • Terraform • Infrastructure as Code • Cloud Networking • Linux IaaS
 
 **Networking**  
 TCP/IP • DNS • VLANs • Routing • Switching • WLAN • Network Troubleshooting • Wireshark • Packet Analysis • OPNsense • GNS3 • Software-Defined Networking • Network Functions Virtualization • OpenFlow Concepts • Northbound/Southbound APIs • Network Telemetry
@@ -20,7 +20,7 @@ TCP/IP • DNS • VLANs • Routing • Switching • WLAN • Network Troubles
 Python • REST APIs • Git • GitHub • GitLab • Infrastructure Automation • Network Programmability • Ansible Concepts
 
 **Security & Operations**  
-Incident Response • Network Security • DNS Security • Monitoring • Root Cause Analysis • Firewall Policy Analysis • Service Exposure Analysis • Centralized Logging • Software-Defined Security • Technical Documentation
+Incident Response • Network Security • DNS Security • Monitoring • Root Cause Analysis • Firewall Policy Analysis • Service Exposure Analysis • Linux Administration • SSH • TLS • Centralized Logging • Software-Defined Security • Technical Documentation
 
 ---
 
@@ -39,6 +39,13 @@ Architecture case study demonstrating AI-assisted enterprise network design, GNS
 Architecture case study for modernizing a fragmented healthcare analytics environment into a secure, scalable hybrid-cloud platform. The design covers workload placement, private hybrid connectivity, network segmentation, centralized identity, Kubernetes strategy, Infrastructure as Code, SIEM/SOAR, workflow automation, governance, FinOps, and continuous optimization.
 
 **Technologies & Concepts:** Hybrid Cloud • Azure Arc • Kubernetes • Infrastructure as Code • SIEM/SOAR • Zero Trust • Automation • FinOps
+
+### ☁️ AWS IaaS Linux Infrastructure Deployment & Operations
+[View Repository →](https://github.com/montezguido/aws-iaas-linux-infrastructure)
+
+Hands-on AWS infrastructure case study covering EC2 provisioning, Ubuntu Server administration, EBS-backed storage, VPC connectivity, Security Groups, Apache, OpenSSH, CloudWatch monitoring, connectivity validation, and TLS configuration, with a documented path toward production hardening.
+
+**Technologies & Tools:** AWS EC2 • Ubuntu Linux • EBS • VPC • Security Groups • Apache • OpenSSH • CloudWatch • OpenSSL • TLS
 
 ### 🔎 Enterprise Network Troubleshooting & Diagnostics
 [View Repository →](https://github.com/montezguido/enterprise-network-troubleshooting)
