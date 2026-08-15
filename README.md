@@ -1,16 +1,70 @@
-## Hi there 👋
+# Montez Guido
 
-<!--
-**montezguido/montezguido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cloud & Network Engineer | Network Automation | AWS | Terraform | Cybersecurity
 
-Here are some ideas to get you started:
+I am a network and cloud engineering professional with 10+ years of experience working with infrastructure, troubleshooting, network design, and technical operations. I am currently completing a B.S. in Cloud and Network Engineering at Western Governors University, with hands-on work spanning cloud infrastructure, Python automation, cybersecurity, hybrid cloud, and enterprise networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My portfolio focuses on practical engineering work: designing infrastructure, automating repetitive tasks, troubleshooting failures, documenting technical decisions, and building solutions that are secure, scalable, and supportable.
+
+---
+
+## Core Engineering Areas
+
+**Cloud & Infrastructure**  
+AWS • Hybrid Cloud • Terraform • Infrastructure as Code • Cloud Networking
+
+**Networking**  
+TCP/IP • DNS • VLANs • Routing • Switching • WLAN • Network Troubleshooting • GNS3
+
+**Automation & Development**  
+Python • REST APIs • Git • GitHub • GitLab • Infrastructure Automation
+
+**Security & Operations**  
+Incident Response • Network Security • DNS Security • Monitoring • Root Cause Analysis • Technical Documentation
+
+---
+
+## Featured Engineering Work
+
+### 🌎 Multi-Region AWS Infrastructure with Terraform
+[View Repository →](https://github.com/montezguido/aws-armageddon)
+
+Terraform-based AWS infrastructure project using reusable variables to define VPC and subnet architecture across multiple AWS regions. The project demonstrates infrastructure-as-code design, IP addressing strategy, public/private subnet segmentation, regional architecture, and repeatable cloud provisioning.
+
+**Technologies:** AWS • Terraform • VPC • Subnets • Infrastructure as Code
+
+---
+
+## Portfolio Projects Being Prepared
+
+My additional engineering work includes projects in:
+
+- Automated DNS incident response and remediation using Python
+- REST API integration for automated help-desk ticket creation
+- SMTP-based stakeholder incident notification
+- Hybrid-cloud infrastructure architecture
+- AI-assisted enterprise network design and monitoring
+- GNS3 network architecture and troubleshooting
+- Network security, monitoring, and incident-response design
+- Systems analysis and root-cause investigation
+
+These projects are being converted from lab and academic environments into sanitized, employer-facing technical case studies with original documentation, architecture diagrams, source code, and implementation notes.
+
+---
+
+## Engineering Approach
+
+I approach infrastructure work by combining practical troubleshooting with disciplined design. I focus on understanding the problem, validating assumptions with evidence, reducing repetitive work through automation, documenting decisions clearly, and considering security and operational impact throughout the solution lifecycle.
+
+---
+
+## Education
+
+**B.S. Cloud and Network Engineering**  
+Western Governors University — In Progress
+
+---
+
+## Current Focus
+
+Cloud engineering • Network automation • Infrastructure as Code • Hybrid cloud • Cybersecurity • Enterprise networking
