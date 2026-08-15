@@ -11,7 +11,7 @@ My portfolio focuses on practical engineering work: designing infrastructure, au
 ## Core Engineering Areas
 
 **Cloud & Infrastructure**  
-AWS • EC2 • CloudWatch • Hybrid Cloud • Terraform • Infrastructure as Code • Cloud Networking • Linux IaaS
+AWS • EC2 • CloudWatch • Hybrid Cloud • Multicloud Architecture • Terraform • Infrastructure as Code • Cloud Networking • Linux IaaS
 
 **Networking**  
 TCP/IP • DNS • VLANs • Routing • Switching • WLAN • Network Troubleshooting • Wireshark • Packet Analysis • OPNsense • GNS3 • Software-Defined Networking • Network Functions Virtualization • OpenFlow Concepts • Northbound/Southbound APIs • Network Telemetry
@@ -20,11 +20,18 @@ TCP/IP • DNS • VLANs • Routing • Switching • WLAN • Network Troubles
 Python • REST APIs • Git • GitHub • GitLab • Infrastructure Automation • Network Programmability • Ansible Concepts
 
 **Security & Operations**  
-Incident Response • Network Security • DNS Security • Monitoring • Root Cause Analysis • Firewall Policy Analysis • Service Exposure Analysis • Linux Administration • SSH • TLS • Centralized Logging • Software-Defined Security • Technical Documentation
+Zero Trust • Hybrid/Multicloud Security • Identity Federation • Least Privilege • Network Segmentation • Security Telemetry • AWS Security Lake • AWS Security Hub • Amazon GuardDuty • AWS Config • CloudTrail • VPC Flow Logs • Incident Response • Network Security • DNS Security • Monitoring • Root Cause Analysis • Firewall Policy Analysis • Linux Administration • SSH • TLS • Centralized Logging • Technical Documentation
 
 ---
 
 ## Featured Engineering Work
+
+### 🔐 Hybrid & Multicloud Security Architecture
+[View Repository →](https://github.com/montezguido/hybrid-multicloud-security-architecture)
+
+Post-merger enterprise security architecture case study evaluating two competing approaches for securing an on-premises, AWS, Azure, and Google Cloud environment. The design covers encrypted hybrid connectivity, centralized security telemetry, Zero Trust evolution, identity federation, microsegmentation, threat detection, compliance-oriented monitoring, risk mitigation, and architecture tradeoffs.
+
+**Technologies & Concepts:** Zero Trust • AWS Transit Gateway • Security Lake • Security Hub • GuardDuty • AWS Config • CloudTrail • VPC Flow Logs • Network Firewall • WAF/Shield • IAM Federation • CSPM
 
 ### 🤖 AI-Enhanced Enterprise Network Operations & Security
 [View Repository →](https://github.com/montezguido/ai-enhanced-network-operations-security)
@@ -75,7 +82,6 @@ Terraform-based AWS infrastructure project using reusable variables to define VP
 My additional engineering work includes projects in:
 
 - Original software-defined networking lab focused on centralized control, OpenFlow/Open vSwitch, network automation, segmentation, and telemetry
-- Network security, monitoring, and incident-response design
 - Systems analysis and root-cause investigation
 
 These projects are being converted from lab and academic environments into sanitized, employer-facing technical case studies with original documentation, architecture diagrams, source code where publication is permitted, and implementation notes.
@@ -97,4 +103,4 @@ Western Governors University — In Progress
 
 ## Current Focus
 
-Cloud engineering • Network automation • Infrastructure as Code • Hybrid cloud • Software-defined networking • Cybersecurity • Enterprise networking
+Cloud engineering • Network automation • Infrastructure as Code • Hybrid cloud • Multicloud security • Zero Trust • Software-defined networking • Cybersecurity • Enterprise networking
