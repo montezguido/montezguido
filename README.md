@@ -1,26 +1,26 @@
 # Montez Guido
 
-### Cloud & Network Engineer | Network Automation | AWS | Terraform | Cybersecurity
+### Cloud & Network Engineer | AWS | Terraform | Network Automation | Cloud Security | DevSecOps
 
-I am a network and cloud engineering professional with 10+ years of experience working with infrastructure, troubleshooting, network design, and technical operations. I am currently completing a B.S. in Cloud and Network Engineering at Western Governors University, with hands-on work spanning cloud infrastructure, Python automation, cybersecurity, hybrid cloud, and enterprise networking.
+I am a network and cloud engineering professional with 10+ years of experience working with infrastructure, troubleshooting, network design, and technical operations. I have officially passed the capstone for my B.S. in Cloud and Network Engineering at Western Governors University, with degree conferral pending.
 
-My portfolio focuses on practical engineering work: designing infrastructure, automating repetitive tasks, troubleshooting failures, documenting technical decisions, and building solutions that are secure, scalable, and supportable.
+My portfolio focuses on practical engineering work: designing infrastructure, automating repetitive tasks, troubleshooting failures, validating security controls, documenting technical decisions, and building solutions that are secure, scalable, resilient, and supportable.
 
 ---
 
 ## Core Engineering Areas
 
 **Cloud & Infrastructure**  
-AWS • EC2 • CloudWatch • Hybrid Cloud • Multicloud Architecture • Terraform • Infrastructure as Code • Cloud Networking • Linux IaaS
+AWS • EC2 • VPC • CloudWatch • Hybrid Cloud • Multicloud Architecture • Terraform • Infrastructure as Code • Cloud Networking • Linux IaaS • AWS Site-to-Site VPN
 
 **Networking**  
-TCP/IP • DNS • VLANs • Routing • Switching • WLAN • Network Troubleshooting • Wireshark • Packet Analysis • OPNsense • GNS3 • Software-Defined Networking • Network Functions Virtualization • OpenFlow Concepts • Northbound/Southbound APIs • Network Telemetry
+TCP/IP • DNS • VLANs • 802.1Q Trunking • DHCP • NAT • ACLs • Routing • Switching • WLAN • IPsec VPN • Network Troubleshooting • Wireshark • Packet Analysis • OPNsense • GNS3 • Software-Defined Networking • Network Functions Virtualization • OpenFlow Concepts • Northbound/Southbound APIs • Network Telemetry
 
 **Automation & Development**  
 Python • REST APIs • Git • GitHub • GitLab • Infrastructure Automation • Network Programmability • Ansible Concepts
 
 **Security & Operations**  
-Zero Trust • Hybrid/Multicloud Security • Identity Federation • Least Privilege • Network Segmentation • Security Telemetry • AWS Security Lake • AWS Security Hub • Amazon GuardDuty • AWS Config • CloudTrail • VPC Flow Logs • Incident Response • Network Security • DNS Security • Monitoring • Root Cause Analysis • Firewall Policy Analysis • Linux Administration • SSH • TLS • Centralized Logging • Technical Documentation
+Zero Trust • Hybrid/Multicloud Security • Identity Federation • Least Privilege • Network Segmentation • Security Groups • Security Telemetry • AWS Security Lake • AWS Security Hub • Amazon GuardDuty • AWS Config • CloudTrail • VPC Flow Logs • Incident Response • Network Security • DNS Security • Monitoring • Root Cause Analysis • Firewall Policy Analysis • Linux Administration • SSH • TLS • StrongSwan/IPsec • Centralized Logging • Technical Documentation
 
 ---
 
@@ -39,6 +39,18 @@ Zero Trust • Hybrid/Multicloud Security • Identity Federation • Least Priv
 ---
 
 ## Featured Engineering Work
+
+### 🎓 Hybrid Cloud Network Engineering Capstone
+
+Completed and officially passed an end-to-end network engineering capstone implementing and validating a recoverable hybrid environment connecting a segmented GNS3 enterprise network to AWS.
+
+The local architecture separates Administration, Operations, and Server workloads with VLANs, DHCP, inter-VLAN routing, NAT, and source-based access controls. The AWS environment uses a VPC with separate web and application tiers, Security Groups, an externally reachable web workload, and encrypted Site-to-Site IPsec connectivity using AWS VPN components and StrongSwan.
+
+The implementation was validated through eight documented functional test scenarios covering Layer 2 segmentation, addressing, routing, controlled local reachability, AWS segmentation and access controls, external connectivity, private hybrid VPN reachability, encrypted data transfer, and source-based security enforcement across the hybrid boundary.
+
+**Technologies & Concepts:** AWS VPC • EC2 • Security Groups • Site-to-Site VPN • StrongSwan/IPsec • GNS3 • VLANs • 802.1Q • DHCP • NAT • ACLs • Routing • Hybrid Networking • Network Segmentation • Security Validation • Git/GitLab
+
+> A sanitized recruiter-facing repository, `hybrid-cloud-network-engineering-capstone`, is being prepared from the completed project. Academic instructions, evaluator materials, credentials, student information, and restricted lab content are intentionally excluded.
 
 ### 🔐 Hybrid & Multicloud Security Architecture
 [View Repository →](https://github.com/montezguido/hybrid-multicloud-security-architecture)
@@ -95,10 +107,11 @@ Terraform-based AWS infrastructure project using reusable variables to define VP
 
 My additional engineering work includes projects in:
 
+- Sanitized recruiter-facing conversion of the passed hybrid AWS/GNS3 capstone into `hybrid-cloud-network-engineering-capstone`
 - Original software-defined networking lab focused on centralized control, OpenFlow/Open vSwitch, network automation, segmentation, and telemetry
-- Systems analysis and root-cause investigation
+- Original secure AWS DevSecOps platform integrating Terraform, Docker, Kubernetes/EKS, CI/CD security controls, GitOps, and observability
 
-These projects are being converted from lab and academic environments into sanitized, employer-facing technical case studies with original documentation, architecture diagrams, source code where publication is permitted, and implementation notes.
+These projects are being developed as employer-facing technical case studies and independent implementations with original documentation, architecture diagrams, source code where publication is permitted, implementation notes, and validation evidence.
 
 ---
 
@@ -111,10 +124,10 @@ I approach infrastructure work by combining practical troubleshooting with disci
 ## Education
 
 **B.S. Cloud and Network Engineering**  
-Western Governors University — In Progress
+Western Governors University — Capstone Passed, Degree Conferral Pending (2026)
 
 ---
 
 ## Current Focus
 
-Cloud engineering • Network automation • Infrastructure as Code • Hybrid cloud • Multicloud security • Zero Trust • Software-defined networking • Cybersecurity • Enterprise networking
+Cloud engineering • Network automation • Infrastructure as Code • Hybrid cloud • AWS networking • Multicloud security • Zero Trust • DevSecOps • Kubernetes/EKS • Software-defined networking • Cybersecurity • Enterprise networking
