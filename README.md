@@ -41,6 +41,7 @@ Zero Trust • Hybrid/Multicloud Security • Identity Federation • Least Priv
 ## Featured Engineering Work
 
 ### 🎓 Hybrid Cloud Network Engineering Capstone
+[View Repository →](https://github.com/montezguido/hybrid-cloud-network-engineering-capstone)
 
 Completed and officially passed an end-to-end network engineering capstone implementing and validating a recoverable hybrid environment connecting a segmented GNS3 enterprise network to AWS.
 
@@ -49,8 +50,6 @@ The local architecture separates Administration, Operations, and Server workload
 The implementation was validated through eight documented functional test scenarios covering Layer 2 segmentation, addressing, routing, controlled local reachability, AWS segmentation and access controls, external connectivity, private hybrid VPN reachability, encrypted data transfer, and source-based security enforcement across the hybrid boundary.
 
 **Technologies & Concepts:** AWS VPC • EC2 • Security Groups • Site-to-Site VPN • StrongSwan/IPsec • GNS3 • VLANs • 802.1Q • DHCP • NAT • ACLs • Routing • Hybrid Networking • Network Segmentation • Security Validation • Git/GitLab
-
-> A sanitized recruiter-facing repository, `hybrid-cloud-network-engineering-capstone`, is being prepared from the completed project. Academic instructions, evaluator materials, credentials, student information, and restricted lab content are intentionally excluded.
 
 ### 🔐 Hybrid & Multicloud Security Architecture
 [View Repository →](https://github.com/montezguido/hybrid-multicloud-security-architecture)
@@ -107,7 +106,6 @@ Terraform-based AWS infrastructure project using reusable variables to define VP
 
 My additional engineering work includes projects in:
 
-- Sanitized recruiter-facing conversion of the passed hybrid AWS/GNS3 capstone into `hybrid-cloud-network-engineering-capstone`
 - Original software-defined networking lab focused on centralized control, OpenFlow/Open vSwitch, network automation, segmentation, and telemetry
 - Original secure AWS DevSecOps platform integrating Terraform, Docker, Kubernetes/EKS, CI/CD security controls, GitOps, and observability
 
