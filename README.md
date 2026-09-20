@@ -2,7 +2,7 @@
 
 ### Cloud & Network Engineer | AWS | Terraform | Network Automation | Cloud Security | DevSecOps
 
-I am a network and cloud engineering professional with 10+ years of experience working with infrastructure, troubleshooting, network design, and technical operations. I have officially passed the capstone for my B.S. in Cloud and Network Engineering at Western Governors University, with degree conferral pending.
+I am a cloud and network engineering professional focused on AWS infrastructure, enterprise networking, Linux, Python automation, troubleshooting, and reliable technical operations. I have officially passed the capstone for my B.S. in Cloud and Network Engineering at Western Governors University, with degree conferral pending.
 
 My portfolio focuses on practical engineering work: designing infrastructure, automating repetitive tasks, troubleshooting failures, validating security controls, documenting technical decisions, and building solutions that are secure, scalable, resilient, and supportable.
 
