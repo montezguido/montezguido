@@ -21,8 +21,8 @@ Documented EC2/Ubuntu administration, Apache, SSH, TLS, and CloudWatch lab work.
 ### [Hybrid Cloud Network Engineering Capstone](https://github.com/montezguido/hybrid-cloud-network-engineering-capstone) — Hybrid design + runnable verification
 Documented GNS3-to-AWS hybrid connectivity, VLAN segmentation, private VPN routing, and source-aware security. Includes separate Python exercises for synthetic VPC/subnet design and default-deny access-policy checks, with automated Linux/Windows CI. [View evidence matrix](https://github.com/montezguido/hybrid-cloud-network-engineering-capstone/blob/main/docs/requirements-evidence.md).
 
-### [Enterprise Network Troubleshooting](https://github.com/montezguido/enterprise-network-troubleshooting) — Operations case study
-Documented DNS, routing, endpoint connectivity, and firewall troubleshooting, emphasizing root-cause isolation, evidence, verification, and operational communication.
+### [Python Network Automation & Incident Response](https://github.com/montezguido/network-automation-incident-response) — WGU case study + independently tested code
+Documented DNS incident recovery, device troubleshooting, and automation from WGU coursework. A separate [offline Python demo](https://github.com/montezguido/network-automation-incident-response/tree/main/portfolio_demo) classifies DNS service failures and unauthorized resolvers, models incident and ticket lifecycles, and includes [31 regression tests with passing Linux/Windows CI](https://github.com/montezguido/network-automation-incident-response/actions/runs/43629035915). Live network remediation and ticketing are not claimed.
 
 > Repositories contain different types of evidence: runnable source, infrastructure definitions, and documented engineering case studies. Documentation-only repositories are not presented as executable software.
 
