@@ -24,6 +24,8 @@ Documented GNS3-to-AWS hybrid connectivity, VLAN segmentation, private VPN routi
 ### [Python Network Automation & Incident Response](https://github.com/montezguido/network-automation-incident-response) — WGU case study + independently tested code
 Documented DNS incident recovery, device troubleshooting, and automation from WGU coursework. A separate [offline Python demo](https://github.com/montezguido/network-automation-incident-response/tree/main/portfolio_demo) classifies DNS service failures and unauthorized resolvers, models incident and ticket lifecycles, and includes [31 regression tests with passing Linux/Windows CI](https://github.com/montezguido/network-automation-incident-response/actions/runs/43629035915). Live network remediation and ticketing are not claimed. Supporting case study: [Enterprise Network Troubleshooting](https://github.com/montezguido/enterprise-network-troubleshooting) now includes a separate, independently written Python triage exercise with [28 tests passing across Linux and Windows](https://github.com/montezguido/enterprise-network-troubleshooting/actions/runs/43629941301).
 
+**Supporting WGU architecture work:** [Multicloud security decision and architecture reviewer guide](https://github.com/montezguido/hybrid-multicloud-security-architecture/blob/main/docs/portfolio-architecture-guide.md) connects the security, healthcare modernization, and AI-assisted network design case studies. These are documented designs, not deployed platforms.
+
 > Repositories contain different types of evidence: runnable source, infrastructure definitions, and documented engineering case studies. Documentation-only repositories are not presented as executable software.
 
 ## Technical toolkit
