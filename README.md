@@ -18,8 +18,8 @@ A runnable Python service monitor with HTTP/TCP checks, stateful **OPENED/RECOVE
 ### [AWS Multi-Region Infrastructure with Terraform](https://github.com/montezguido/aws-armageddon) — Infrastructure as Code
 Terraform source defining AWS provider, VPC, subnets, and transit gateway components. A foundation for further validation, modularization, security checks, and CI improvements.
 
-### [Hybrid Cloud Network Engineering Capstone](https://github.com/montezguido/hybrid-cloud-network-engineering-capstone) — Architecture and validation case study
-Documented segmented enterprise networking and AWS hybrid connectivity, including VLANs, routing, access controls, and site-to-site VPN design and testing evidence.
+### [Hybrid Cloud Network Engineering Capstone](https://github.com/montezguido/hybrid-cloud-network-engineering-capstone) — Hybrid design + runnable verification
+Documented GNS3-to-AWS hybrid connectivity, VLAN segmentation, private VPN routing, and source-aware security. Includes separate Python exercises for synthetic VPC/subnet design and default-deny access-policy checks, with automated Linux/Windows CI. [View evidence matrix](https://github.com/montezguido/hybrid-cloud-network-engineering-capstone/blob/main/docs/requirements-evidence.md).
 
 ### [Enterprise Network Troubleshooting](https://github.com/montezguido/enterprise-network-troubleshooting) — Operations case study
 Documented DNS, routing, endpoint connectivity, and firewall troubleshooting, emphasizing root-cause isolation, evidence, verification, and operational communication.
