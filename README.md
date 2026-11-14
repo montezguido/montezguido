@@ -15,8 +15,8 @@ A runnable Python service monitor with HTTP/TCP checks, stateful **OPENED/RECOVE
 
 **Evidence:** [source](https://github.com/montezguido/network-reliability-lab/tree/main/src/network_reliability) · [tests](https://github.com/montezguido/network-reliability-lab/tree/main/tests) · [verification](https://github.com/montezguido/network-reliability-lab/blob/main/docs/verification-report.md)
 
-### [AWS Multi-Region Infrastructure with Terraform](https://github.com/montezguido/aws-armageddon) — Infrastructure as Code
-Terraform source defining AWS provider, VPC, subnets, and transit gateway components. A foundation for further validation, modularization, security checks, and CI improvements.
+### [AWS IaaS & Linux Infrastructure](https://github.com/montezguido/aws-iaas-linux-infrastructure) — WGU case study + independently verified Terraform
+Documented EC2/Ubuntu administration, Apache, SSH, TLS, and CloudWatch lab work. A separate, independently developed [Terraform reference](https://github.com/montezguido/aws-iaas-linux-infrastructure/tree/main/reference) defines VPC networking and an opt-in Ubuntu EC2 web demo with no inbound SSH, EBS encryption, IMDSv2, and [successful offline CI tests](https://github.com/montezguido/aws-iaas-linux-infrastructure/actions/runs/43628187303). No AWS deployment is claimed for the new code.
 
 ### [Hybrid Cloud Network Engineering Capstone](https://github.com/montezguido/hybrid-cloud-network-engineering-capstone) — Hybrid design + runnable verification
 Documented GNS3-to-AWS hybrid connectivity, VLAN segmentation, private VPN routing, and source-aware security. Includes separate Python exercises for synthetic VPC/subnet design and default-deny access-policy checks, with automated Linux/Windows CI. [View evidence matrix](https://github.com/montezguido/hybrid-cloud-network-engineering-capstone/blob/main/docs/requirements-evidence.md).
